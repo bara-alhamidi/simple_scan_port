@@ -6,8 +6,6 @@ A simple script that checks open portlets in devices or sites , gift to all my f
 Script written by Albaraa Alhamidi
 
 # Follow me :
- 1 . https://www.instagram.com/_.brbr/
- 
- 2 . https://www.facebook.com/albaraa.alhamidi
+  https://www.instagram.com/xxbrbr/
  
  # Finish
