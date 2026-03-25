@@ -61,7 +61,7 @@ except socket.gaierror:
     sys.exit()
 #not connct internet
 except socket.error:
-    print (Fore.LIGHTRED_EXs,"[!] Your Not connect internet")
+    print (Fore.LIGHTRED_EX,"[!] Your Not connect internet")
     sys.exit()
 else:
     time2 = datetime.now()
