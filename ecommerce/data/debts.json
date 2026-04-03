@@ -1,0 +1,33 @@
+{
+  "debts": [
+    {
+      "id": "d5711cda865e0",
+      "contact_id": "c5692670d40f5",
+      "amount": 500.0,
+      "currency": "SAR",
+      "type": "owed_to_me",
+      "description": "دين اختباري",
+      "date": "2026-04-03",
+      "paid": false,
+      "remaining": 112.5,
+      "payments": [
+        {
+          "date": "2026-04-03",
+          "amount": 200.0,
+          "currency": "SAR",
+          "converted_amount": 200.0,
+          "debt_currency": "SAR",
+          "exchange_rate": 1.0
+        },
+        {
+          "date": "2026-04-03",
+          "amount": 50.0,
+          "currency": "USD",
+          "converted_amount": 187.5,
+          "debt_currency": "SAR",
+          "exchange_rate": 3.75
+        }
+      ]
+    }
+  ]
+}

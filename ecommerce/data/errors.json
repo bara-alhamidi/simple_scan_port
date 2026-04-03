@@ -1,0 +1,14 @@
+{
+  "errors": [
+    {
+      "timestamp": "2026-04-03T22:34:52.634552",
+      "context": "test",
+      "error": "اختبار تسجيل الخطأ"
+    },
+    {
+      "timestamp": "2026-04-03T22:34:52.635230",
+      "context": "slack_alert.skipped",
+      "error": "اختبار | تفاصيل"
+    }
+  ]
+}

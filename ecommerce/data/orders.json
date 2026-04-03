@@ -1,0 +1,25 @@
+{
+  "orders": [
+    {
+      "id": "o5711de092551",
+      "date": "2026-04-03T22:35:11.363718",
+      "contact_id": "c5692670d40f5",
+      "items": [
+        {
+          "product_id": "p5692c61a9835",
+          "product_name": "لابتوب Dell",
+          "quantity": 2,
+          "unit_price": 2800.0,
+          "currency": "SAR",
+          "converted_price": 746.76,
+          "payment_currency": "USD",
+          "exchange_rate": 0.2667
+        }
+      ],
+      "total": 1493.52,
+      "currency": "USD",
+      "profit": 426.72,
+      "status": "completed"
+    }
+  ]
+}
