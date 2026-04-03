@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "id": "c5692670d40f5",
+      "name": "أحمد محمد",
+      "type": "عميل",
+      "communication": [
+        {
+          "method": "phone",
+          "value": "+966501234567"
+        },
+        {
+          "method": "whatsapp",
+          "value": "+966501234567"
+        }
+      ],
+      "notes": "عميل مميز"
+    },
+    {
+      "id": "c5711a1a6a446",
+      "name": "محمد خالد",
+      "type": "تاجر",
+      "communication": [
+        {
+          "method": "phone",
+          "value": "+966509999999"
+        }
+      ],
+      "notes": ""
+    }
+  ]
+}

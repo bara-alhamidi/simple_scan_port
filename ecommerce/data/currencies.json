@@ -1,0 +1,50 @@
+{
+  "currencies": [
+    {
+      "code": "SAR",
+      "name": "ريال سعودي",
+      "symbol": "ر.س"
+    },
+    {
+      "code": "USD",
+      "name": "دولار أمريكي",
+      "symbol": "$"
+    },
+    {
+      "code": "KWD",
+      "name": "دينار كويتي",
+      "symbol": "د.ك"
+    },
+    {
+      "code": "OMR",
+      "name": "ريال عماني",
+      "symbol": "ر.ع"
+    },
+    {
+      "code": "QAR",
+      "name": "ريال قطري",
+      "symbol": "ر.ق"
+    },
+    {
+      "code": "AED",
+      "name": "درهم إماراتي",
+      "symbol": "د.إ"
+    }
+  ],
+  "exchange_rates": {
+    "USD_SAR": 3.75,
+    "SAR_USD": 0.2667,
+    "KWD_SAR": 12.2,
+    "SAR_KWD": 0.082,
+    "OMR_SAR": 9.74,
+    "SAR_OMR": 0.1027,
+    "QAR_SAR": 1.03,
+    "SAR_QAR": 0.9709,
+    "AED_SAR": 1.02,
+    "SAR_AED": 0.9804,
+    "USD_AED": 3.67,
+    "AED_USD": 0.2725,
+    "KWD_USD": 3.25,
+    "USD_KWD": 0.3077
+  }
+}

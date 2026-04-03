@@ -1,0 +1,41 @@
+{
+  "merchants": [
+    {
+      "id": "m57115e624aae",
+      "contact_id": "c5692670d40f5",
+      "inventory": [
+        {
+          "product_id": "p5692c61a9835",
+          "quantity": 15,
+          "cost_currency": "SAR",
+          "custom_rate": null
+        }
+      ]
+    },
+    {
+      "id": "m5711a48dbd0b",
+      "contact_id": "c5711a1a6a446",
+      "inventory": [
+        {
+          "product_id": "p5692c61a9835",
+          "quantity": 5,
+          "cost_currency": "SAR",
+          "custom_rate": null
+        }
+      ]
+    }
+  ],
+  "transfers": [
+    {
+      "id": "t57114c10864e",
+      "date": "2026-04-03T22:35:11.366838",
+      "from_merchant": "m57115e624aae",
+      "to_merchant": "m5711a48dbd0b",
+      "product_id": "p5692c61a9835",
+      "quantity": 5,
+      "price": 2500.0,
+      "currency": "SAR",
+      "exchange_rate_used": null
+    }
+  ]
+}

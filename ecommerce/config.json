@@ -1,0 +1,6 @@
+{
+  "slack_webhook_url": "PASTE_YOUR_SLACK_WEBHOOK_URL_HERE",
+  "slack_enabled": false,
+  "app_name": "نظام المتجر",
+  "default_currency": "SAR"
+}
